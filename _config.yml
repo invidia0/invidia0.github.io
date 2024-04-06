@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Student in Robotics 🧑‍💻"
   location         : "Italy"
-  employer         : "University of Modena and Reggio Emilia"
+  employer         : "University of Modena\nand Reggio Emilia"
   uri              : # URL
   email            : "mattia [dot] mantovani [at] unimore [dot] it" 
 
@@ -34,7 +34,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=v-hSgo4AAAAJ&hl=it"
   impactstory      : # URL
-  orcid            : "https://orcid.org/0009-0008-6752-8754"
+  orcid            : # "https://orcid.org/0009-0008-6752-8754"
   pubmed           : # URL
   researchgate     : # URL
 
