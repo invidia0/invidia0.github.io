@@ -32,7 +32,7 @@
   }
 
   @include breakpoint($x-large) {
-    // Fit the sidebar to the content width
+    // Add a little padding from the main content
     max-width: $sidebar-link-max-width;
     padding-right: 0;
   }
