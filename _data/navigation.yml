@@ -1,10 +1,7 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Research
+    url: https://scholar.google.com/citations?user=v-hSgo4AAAAJ&hl=it
 
   - title: "CV"
     url: /cv/
-
-  - title: "Secret Stuff"
-    url: /secret/
