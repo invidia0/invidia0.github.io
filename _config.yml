@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Mattia Mantovani"
+title                    : "Mattia's Homepage"
 title_separator          : "-"
-name                     : &name "Mattia Mantovani  "
+name                     : &name "Mattia Mantovani"
 description              : &description "Ph.D. Student in Robotics at the University of Modena and Reggio Emilia"
 url                      : https://invidia0.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
