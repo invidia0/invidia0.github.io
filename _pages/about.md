@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+
 🗿 _I sweat, program and climb rocks_
 
 🧑‍💻 I’m a **Ph.D. Student in Robotics** at the [ARSControl Lab](https://www.arscontrol.unimore.it/), Italy 🇮🇹.
