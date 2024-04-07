@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "About Me"
+title                    : "Mattia Mantovani"
 title_separator          : "-"
 name                     : &name "Mattia Mantovani  "
 description              : &description "Ph.D. Student in Robotics at the University of Modena and Reggio Emilia"
