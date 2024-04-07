@@ -1,37 +1,31 @@
 ---
 layout: archive
-title: "Sitemap"
+title: ""
 permalink: /sitemap/
 author_profile: true
 ---
 
-{% include base_path %}
+Congratulations Pal, you just found a secret page! 👀
 
-A list of all the posts and pages found on the site. For you robots out there is an [XML version]({{ base_path }}/sitemap.xml) available for digesting as well.
+Here are my idols, inspirations, and the people I look up to:
 
-<h2>Pages</h2>
-{% for post in site.pages %}
-  {% include archive-single.html %}
-{% endfor %}
+- Arnold Schwarzenegger
+<p align="left">
+  <img width="460" height="300" src="/images/arnold-staring.jpeg">
+</p>
 
-<h2>Posts</h2>
-{% for post in site.posts %}
-  {% include archive-single.html %}
-{% endfor %}
+- Tom Platz
+<p align="left">
+  <img width="460" height="300" src="/images/tom-platz.jpg">
+  <img width="460" height="300" src="/images/tom-platz-lifting.jpg">
+</p>
 
-{% capture written_label %}'None'{% endcapture %}
+- Elon Musk
+<p align="left">
+  <img width="460" height="300" src="/images/elon.jpg">
+</p>
 
-{% for collection in site.collections %}
-{% unless collection.output == false or collection.label == "posts" %}
-  {% capture label %}{{ collection.label }}{% endcapture %}
-  {% if label != written_label %}
-  <h2>{{ label }}</h2>
-  {% capture written_label %}{{ label }}{% endcapture %}
-  {% endif %}
-{% endunless %}
-{% for post in collection.docs %}
-  {% unless collection.output == false or collection.label == "posts" %}
-  {% include archive-single.html %}
-  {% endunless %}
-{% endfor %}
-{% endfor %}
+- Jen-Hsun Huang
+<p align="left">
+  <img width="460" height="300" src="/images/jen-hsun-huang.jpg">
+</p>
