@@ -13,17 +13,20 @@ redirect_from:
 
 Recently, I've worked on coverage control with unkown spatial processes estimation, employing Gaussian Processes (GPs).
 
-Currently, my focus is on Nonlinear control techniques (NMPC), specifically applied to quadrotors; Coverage and Ergodic Control;
+Current focus:
+- Nonlinear control techniques (NMPC, MPPI), specifically applied to quadrotors
+- Ergodic Control
+- Neural Processes
+
 A short list of tools that I'm familiar with:
 - Python, C/C++, MATLAB
-- ROS, ROS 2, PyTorch, Tensorflow, JAX and the main libraries like NumPy, GPy, Pyro, etc. (Also a bit of RL with Gymnasium, SB3 and MuJoCo)
+- ROS, ROS 2, PyTorch, Tensorflow, JAX and the main libraries like NumPy, GPy, Pyro, etc. (Also a bit of RL with Gymnasium, SB3)
 - Ubuntu based.
 
 ### 🏝️ This is literally me: 
 - I love being out in nature exploring new places 🏞️.
 - If I am not lifting weights 🏋️, I am probably climbing rocks 🧗 or pushing watts 🏃‍♂️🚴.\
-
-![Strava](/images/strava.jpeg){: .align-left width="10px"} : https://www.strava.com/athletes/invidia0
+My Strava: https://www.strava.com/athletes/invidia0
 - Big fan of sushi and pizza 🍕.
 - Also, I rescue people as a volunteer in the Italian Red Cross 🚑.
 
