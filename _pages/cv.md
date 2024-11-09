@@ -7,4 +7,3 @@ redirect_from:
   - /resume
 ---
 
-Soon to be updated. Stay tuned! 🚀

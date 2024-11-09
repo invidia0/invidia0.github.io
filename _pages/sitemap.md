@@ -9,23 +9,13 @@ Congratulations Pal, you just found a secret page! 👀
 
 Here are my idols, inspirations, and the people I look up to:
 
-- Arnold Schwarzenegger
-<p align="left">
-  <img width="460" height="300" src="/images/arnold-staring.jpeg">
-</p>
-
-- Tom Platz
-<p align="left">
-  <img width="460" height="300" src="/images/tom-platz.jpg">
-  <img width="460" height="300" src="/images/tom-platz-lifting.jpg">
-</p>
-
-- Elon Musk
+- Elon Musk\
+"Failure is an option here. If things are not failing, you are not innovating enough."
 <p align="left">
   <img width="460" height="300" src="/images/elon.jpg">
 </p>
-
-- Jen-Hsun Huang
+- Jocko Willink\
+"When things are going bad, there’s going to be some good that will come from it."
 <p align="left">
-  <img width="460" height="300" src="/images/jen-hsun-huang.jpg">
+  <img width="460" height="300" src="/images/jocko.jpg">
 </p>

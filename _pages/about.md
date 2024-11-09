@@ -7,25 +7,31 @@ redirect_from:
   - /about.html
 ---
 
+🧑‍💻 I’m a **Ph.D. Student in Robotics** at the [ARSControl Lab](https://www.arscontrol.unimore.it/), University of Modena and Reggio Emilia, Italy 🇮🇹.
 
-🗿 _I sweat, program and climb rocks_
+🔎 My research interests are in Control Theory, AI applied to Robotics and Multi-Robot Systems.
 
-🧑‍💻 I’m a **Ph.D. Student in Robotics** at the [ARSControl Lab](https://www.arscontrol.unimore.it/), Italy 🇮🇹.
+Recently, I've worked on coverage control with unkown spatial processes estimation, employing Gaussian Processes (GPs).
 
-🔎 My research interests are in Multi-Robot Systems and Swarm Robotics.\
-Currently, my focus is on **Path Planning**, **Aut. Exploration** and **Coverage Control**.
+Currently, my focus is on Nonlinear control techniques (NMPC), specifically applied to quadrotors; Coverage and Ergodic Control;
+A short list of tools that I'm familiar with:
+- Python, C/C++, MATLAB
+- ROS, ROS 2, PyTorch, Tensorflow, JAX and the main libraries like NumPy, GPy, Pyro, etc. (Also a bit of RL with Gymnasium, SB3 and MuJoCo)
+- Ubuntu based.
 
 ### 🏝️ This is literally me: 
 - I love being out in nature exploring new places 🏞️.
-- If I am not lifting weights 🏋️, I am probably climbing rocks 🧗 or cycling 🚴.
-- Big fan of anime 🎌 and pizza 🍕.
+- If I am not lifting weights 🏋️, I am probably climbing rocks 🧗 or pushing watts 🏃‍♂️🚴.\
+
+![Strava](/images/strava.jpeg){: .align-right width="1000px"} : https://www.strava.com/athletes/invidia0
+- Big fan of sushi and pizza 🍕.
 - Also, I rescue people as a volunteer in the Italian Red Cross 🚑.
 
 🧳 Selected Experience
 ------
 
 ### 🤖 ProjectRED
-![ProjectRED](/images/projectred.jpeg){: .align-right width="300px"}
+![ProjectRED](/images/projectred.jpeg){: .align-right width="10px"}
 I have been working on the [ProjectRED](https://www.projectred.it/) 🚀 project, a student-led initiative at the [University of Modena and Reggio Emilia, DISMI](https://www.dismi.unimore.it/it).\
 👉 The project aims to develop a rover for competing in the [European Rover Challenge (ERC)](https://roverchallenge.eu/) competition.\
 
