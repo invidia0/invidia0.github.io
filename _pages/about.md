@@ -23,7 +23,7 @@ A short list of tools that I'm familiar with:
 - I love being out in nature exploring new places 🏞️.
 - If I am not lifting weights 🏋️, I am probably climbing rocks 🧗 or pushing watts 🏃‍♂️🚴.\
 
-![Strava](/images/strava.jpeg){: .align-right width="1000px"} : https://www.strava.com/athletes/invidia0
+![Strava](/images/strava.jpeg){: .align-left width="10px"} : https://www.strava.com/athletes/invidia0
 - Big fan of sushi and pizza 🍕.
 - Also, I rescue people as a volunteer in the Italian Red Cross 🚑.
 
@@ -31,7 +31,7 @@ A short list of tools that I'm familiar with:
 ------
 
 ### 🤖 ProjectRED
-![ProjectRED](/images/projectred.jpeg){: .align-right width="10px"}
+![ProjectRED](/images/projectred.jpeg){: .align-right width="300px"}
 I have been working on the [ProjectRED](https://www.projectred.it/) 🚀 project, a student-led initiative at the [University of Modena and Reggio Emilia, DISMI](https://www.dismi.unimore.it/it).\
 👉 The project aims to develop a rover for competing in the [European Rover Challenge (ERC)](https://roverchallenge.eu/) competition.\
 
