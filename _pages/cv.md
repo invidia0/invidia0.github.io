@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 Find my updated CV below:\
-[Download PDF](/files/CV_Mantovani.pdf)
+[Download PDF](/files/mm_resume_en.pdf)
